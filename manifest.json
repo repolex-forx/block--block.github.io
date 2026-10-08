@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "block.github.io",
+  "versions": [
+    {
+      "commit": "c44583963cd1bf47072f881ddc3b075fc179e238",
+      "parsed_at": "2026-10-08T11:10:40.770430+00:00",
+      "tag": "main",
+      "filetree": "filetree/c44583963cd1bf47072f881ddc3b075fc179e238.nq.gz",
+      "blobs": [
+        "blob/d0129ab5fe729d45ba397f7b6fe46b591f77df2c.nq.gz",
+        "blob/cf2eb21d947c933991f87c2df6be4c3af8955880.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
